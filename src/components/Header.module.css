@@ -1,0 +1,11 @@
+.header {
+    display: block;
+}
+
+hr {
+    border: 10px dotted #000;
+    border-style: none none dotted; 
+    color: #fff; 
+    background-color: #fff;
+
+}
